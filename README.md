@@ -2,8 +2,7 @@
 ## Im CAT
 **Im WEB desainer,**
 *Hello*
-```
-javaScript
+```javaScript
 $(document).ready(function() {
 
     
